@@ -1,0 +1,6 @@
+name: AAKitten
+api-version: 1.15
+main: org.DLumina.bukkitplugin.AAKitten.AAKittenPlugin
+version: 0.2.2
+author: DLumina
+description: For he can creep.

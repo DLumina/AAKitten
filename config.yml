@@ -1,0 +1,17 @@
+Absence_worlds:
+- just_for_demonstration
+
+Enemies_list:
+- phantom
+- creeper
+- zombie
+- drowned
+- husk
+- spider
+- player
+
+Consume_fish: 0.1
+
+Search_speed: 20
+
+Attack_speed: 2
